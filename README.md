@@ -7,7 +7,8 @@
 1. Pass the path of the video.
 2. Then intialise the detection of face.
 3. Then add an additional feature to make video.
-4.Seperating the functions is done.
+4. Seperating the functions is done
+
 
 ## FUTURE WORK
 
