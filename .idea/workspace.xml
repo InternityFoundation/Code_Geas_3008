@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c780b950-a56b-47e3-82eb-aaaac6006dc9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/face_video_capture.py" beforeDir="false" afterPath="$PROJECT_DIR$/face_video_capture.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/video.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/video.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_video_capture.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video.mp4" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +50,43 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.face_video_capture">
+  <component name="RunManager" selected="Python.faceCrop">
+    <configuration name="ROI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="internity_Hackathon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\dell\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ROI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="faceCrop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="internity_Hackathon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\dell\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/faceCrop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="face_vide_capture" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="internity_Hackathon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,10 +129,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="internity_Hackathon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\dell\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.face_video_capture" />
-        <item itemvalue="Python.face_vide_capture" />
+        <item itemvalue="Python.faceCrop" />
+        <item itemvalue="Python.faceCrop" />
+        <item itemvalue="Python.faceCrop" />
+        <item itemvalue="Python.functions" />
+        <item itemvalue="Python.ROI" />
       </list>
     </recent_temporary>
   </component>
@@ -94,7 +170,26 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="392" y="0" key="#ROI" timestamp="1593883785586">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="0" key="#ROI/0.0.1366.728@0.0.1366.728" timestamp="1593883785586" />
+    <state x="392" y="0" key="#faceCrop" timestamp="1593883972013">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="0" key="#faceCrop/0.0.1366.728@0.0.1366.728" timestamp="1593883972013" />
     <state x="392" y="0" key="#face_vide_capture" timestamp="1593846945569">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -103,22 +198,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="392" y="0" key="#face_video_capture/0.0.1366.728@0.0.1366.728" timestamp="1593854903731" />
-    <state width="1345" height="26" key="GridCell.Tab.0.bottom" timestamp="1593868394768">
+    <state x="392" y="0" key="#functions" timestamp="1593883799033">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="26" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593868394768" />
-    <state width="1345" height="26" key="GridCell.Tab.0.center" timestamp="1593868394768">
+    <state x="392" y="0" key="#functions/0.0.1366.728@0.0.1366.728" timestamp="1593883799033" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1593884134284">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="26" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593868394768" />
-    <state width="1345" height="26" key="GridCell.Tab.0.left" timestamp="1593868394768">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593884134284" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1593884134284">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="26" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593868394768" />
-    <state width="1345" height="26" key="GridCell.Tab.0.right" timestamp="1593868394768">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593884134284" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1593884134284">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="26" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593868394768" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593884134284" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1593884134284">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593884134284" />
     <state width="1345" height="26" key="GridCell.Tab.1.bottom" timestamp="1593868394769">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -1,25 +1,15 @@
-import numpy as np
 import cv2
-import os
-import sys
-import pdb
-
-
-
 
 def show(img, wait):
     cv2.imshow('image', img)
     cv2.waitKey(wait)
 
-
 def PV(arr):
     for x in arr:
         print(x);
 
-
 def PNN(ss):
     print(ss, end=', ', flush=True)
-
 
 def getFrame(cap, i, show):
     cap.set(1, i)
@@ -29,13 +19,11 @@ def getFrame(cap, i, show):
         cv2.waitKey(0);
     return frame;
 
-
 def readFile(fil):
     lines = [];
     with open(fil) as f:
         lines = f.readlines()
     return lines;
-
 
 def viewVideo(vid):
     frameNo = 0;
@@ -60,7 +48,6 @@ def viewVideo(vid):
         # Break the loop
         else:
             break
-
 
 def cropFrame(vid, time, roi):
     # roi is in [1, num_pixels]
