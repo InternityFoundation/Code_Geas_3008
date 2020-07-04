@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c780b950-a56b-47e3-82eb-aaaac6006dc9" name="Default Changelist" comment="" />
+    <list default="true" id="c780b950-a56b-47e3-82eb-aaaac6006dc9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_video_capture.py" beforeDir="false" afterPath="$PROJECT_DIR$/face_video_capture.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/video.mp4" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1eDBsC418JK8g664K0TDoSniXgS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,7 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.face_video_capture">
     <configuration name="face_vide_capture" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="internity_Hackathon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -45,8 +53,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="face_video_capture" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="internity_Hackathon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\dell\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/face_video_capture.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.face_video_capture" />
         <item itemvalue="Python.face_vide_capture" />
       </list>
     </recent_temporary>
@@ -69,37 +99,41 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="392" y="0" key="#face_vide_capture/0.0.1366.728@0.0.1366.728" timestamp="1593846945568" />
-    <state width="1345" height="223" key="GridCell.Tab.0.bottom" timestamp="1593851598651">
+    <state x="392" y="0" key="#face_video_capture" timestamp="1593854903731">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593851598651" />
-    <state width="1345" height="223" key="GridCell.Tab.0.center" timestamp="1593851598650">
+    <state x="392" y="0" key="#face_video_capture/0.0.1366.728@0.0.1366.728" timestamp="1593854903731" />
+    <state width="1345" height="26" key="GridCell.Tab.0.bottom" timestamp="1593868394768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593851598650" />
-    <state width="1345" height="223" key="GridCell.Tab.0.left" timestamp="1593851598649">
+    <state width="1345" height="26" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593868394768" />
+    <state width="1345" height="26" key="GridCell.Tab.0.center" timestamp="1593868394768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593851598649" />
-    <state width="1345" height="223" key="GridCell.Tab.0.right" timestamp="1593851598650">
+    <state width="1345" height="26" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593868394768" />
+    <state width="1345" height="26" key="GridCell.Tab.0.left" timestamp="1593868394768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593851598650" />
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1593851598237">
+    <state width="1345" height="26" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593868394768" />
+    <state width="1345" height="26" key="GridCell.Tab.0.right" timestamp="1593868394768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593851598237" />
-    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1593851598236">
+    <state width="1345" height="26" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593868394768" />
+    <state width="1345" height="26" key="GridCell.Tab.1.bottom" timestamp="1593868394769">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1593851598236" />
-    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1593851598236">
+    <state width="1345" height="26" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593868394769" />
+    <state width="1345" height="26" key="GridCell.Tab.1.center" timestamp="1593868394769">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1593851598236" />
-    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1593851598237">
+    <state width="1345" height="26" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1593868394769" />
+    <state width="1345" height="26" key="GridCell.Tab.1.left" timestamp="1593868394768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1593851598237" />
+    <state width="1345" height="26" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1593868394768" />
+    <state width="1345" height="26" key="GridCell.Tab.1.right" timestamp="1593868394769">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="26" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1593868394769" />
   </component>
 </project>

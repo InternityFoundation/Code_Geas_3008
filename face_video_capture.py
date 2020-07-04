@@ -56,6 +56,9 @@ cap.release()
 out.release()
 cv2.destroyAllWindows()
 
+# Now Face Capturing will start
+
+
 cap = cv2.VideoCapture('video.mp4')
 face_cascade = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
 
