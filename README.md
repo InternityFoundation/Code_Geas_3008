@@ -6,5 +6,5 @@
 * STEPS
 1. Pass the path of the video.
 2. Then intialise the detection of face.
-3. Then adding a feature to make video.
+3. Then add an additional feature to make video.
 
