@@ -8,7 +8,7 @@
 2. Then intialise the detection of face.
 3. Crop the faces.
 4. Seperating the functions is done
-5. cropped the faces
+5. Store the cropped faces in different folder.
 
 ## FUTURE WORK
 
