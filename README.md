@@ -6,10 +6,10 @@
 * STEPS
 1. Pass the path of the video.
 2. Then intialise the detection of face.
-3. Then add an additional feature to make video.
+3. Crop the faces.
 4. Seperating the functions is done
 5. cropped the faces
 
 ## FUTURE WORK
 
-* if get selected then add that faces in classifier and then work on different videos
+* If get selected then add that faces in a classifier and then work on different videos
